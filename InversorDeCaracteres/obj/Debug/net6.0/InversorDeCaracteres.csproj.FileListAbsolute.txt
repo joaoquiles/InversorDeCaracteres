@@ -1,0 +1,15 @@
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\bin\Debug\net6.0\InversorDeCaracteres.exe
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\bin\Debug\net6.0\InversorDeCaracteres.deps.json
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\bin\Debug\net6.0\InversorDeCaracteres.runtimeconfig.json
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\bin\Debug\net6.0\InversorDeCaracteres.dll
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\bin\Debug\net6.0\InversorDeCaracteres.pdb
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.csproj.AssemblyReference.cache
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.AssemblyInfoInputs.cache
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.AssemblyInfo.cs
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.csproj.CoreCompileInputs.cache
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.dll
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\refint\InversorDeCaracteres.dll
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.pdb
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\InversorDeCaracteres.genruntimeconfig.cache
+C:\Aprendendo CSharp\abasd\InversorDeCaracteres\obj\Debug\net6.0\ref\InversorDeCaracteres.dll
